@@ -4,7 +4,7 @@
 ##### 📞️ +50686119185
 ##### 📧️ jvsqzj@gmail.com 
 
-An open minded individual eager to apply technical skills and knowledge in real world circumstances. 
+I am an open minded individual eager to apply technical skills and knowledge in real world circumstances. 
 Electronics engineer, with solid understanding on system modeling and analysis. 
 Firm believer in good coding and design practices. Technology is knowledge put to use by improving our surroundings.   
 
