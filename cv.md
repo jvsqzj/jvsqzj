@@ -16,10 +16,10 @@ Licenciate Electronics Engineer from Costa Rica Institute of Technology (June, 2
 ##### **Intel Corporation** (2019 - present)
 - Owner of SW modeling of IP and architectural features present in Intel server SoCs for fast pre-silicon simulation
 
-- Participant in iniative to improve work methodology (following basic SCRUM aspects)
+- Promoted iniative to improve work methodology (following SCRUM principles)
 
-- Participant in hiring process for new team members (candidate interviews and evaluation)
-
+- Interviewer and evaluator in hiring process for new team members
+ 
 - Created python application to gather information from REST API database for easy feature and bug tracking visualization in Excel (openpyxl)
 
 ### 📊️ Research assistant 
