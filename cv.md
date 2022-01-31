@@ -38,7 +38,8 @@ Licenciate Electronics Engineer from Costa Rica Institute of Technology (June, 2
 - Computer architecture and operating systems
 - **Linux** experience (command line applications, scripting, remote ssh)
 - Coding (**Python**, **C**)
-- Experience with **Jenkins** CI/CD, **git** version control
+- Experience with **Jenkins** CI/CD
+- **git** version control
 - Digital systems design and simulation (**HDL**, **verilog**)
 - Experience with **FPGA** prototyping
 - **Matlab**
