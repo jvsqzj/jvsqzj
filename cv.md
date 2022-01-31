@@ -27,7 +27,7 @@ Licenciate Electronics Engineer from Costa Rica Institute of Technology (June, 2
 - High frequency simulation and characterization of sensor designs intended for spectroscopy analysis of biological samples 
 
 ### 📚️ Student tutor 
-##### **Costa Rica Institute of Technology** (2016)
+##### **Departamento de Orientación y Psicología, Costa Rica Institute of Technology** (2016)
 - Personal tutor for a student in the Direct Current Circuits course 
 
 ## Skills
