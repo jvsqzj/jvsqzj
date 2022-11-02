@@ -14,6 +14,8 @@ Licenciate Electronics Engineer from Costa Rica Institute of Technology (June, 2
 ## Experience
 ### 💻️ Systems Simulation SW Engineer 
 ##### **Intel Corporation** (2019 - present)
+- Validator of Intel Architecture Security technologies and extensions for pre-silicon simulation  
+
 - Owner of software modeling of patented hardware units and architectural features present in Intel server products for fast simulation
 
 - Promoted iniative to improve work methodology (following SCRUM principles)
