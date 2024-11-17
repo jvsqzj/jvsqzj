@@ -1,53 +1,52 @@
-# Juan José Vásquez Alfaro 🇨🇷️
-###  Electronics Engineer and Software developer
-#### Contact Information
-##### 📞️ +50686119185
-##### 📧️ jvsqzj@gmail.com 
+# Juan José Vásquez Alfaro  -  Software Engineer
 
-I am an open minded individual eager to apply technical skills and knowledge in real world circumstances. 
-Electronics engineer, with solid understanding on system modeling and analysis. 
-Firm believer in good coding and design practices. Technology is knowledge put to use by improving our surroundings.   
+Software engineer with 5+ years of experience developing, reviewing, and debugging C code for transaction-level system modeling and simulation, as well as Python code for unit-testing and automation of integrated E2E testing. Proficient in verbal and written communication for creating documentation, assessing software requirements, and providing technical support. I enjoy sharing technical knowledge and fostering an environment of continuous learning.
 
-## Education
-Licenciate Electronics Engineer from Costa Rica Institute of Technology (June, 2021)
+| Contact:            |               |
+| :---                |     :----:    |
+|   jvsqzj@gmail.com  | +50686119185  |
 
 ## Experience
-### 💻️ Systems Simulation SW Engineer 
-##### **Intel Corporation** (2019 - present)
-- Validator of Intel Architecture Security technologies and extensions for pre-silicon simulation  
+### **Intel Corporation** (2019 - present)
+#### Server Security Simulation Technical Lead (present)
+- Led a team of 3 other engineers by defining requirements, creating documentation, planning, and tracking progress on the readiness of simulation models for various x86 security technologies
 
-- Owner of software modeling of patented hardware units and architectural features present in Intel server products for fast simulation
+- Performed reviews and debugging of low-level firmware to identify issues in the early stages of development
 
-- Promoted iniative to improve work methodology (following SCRUM principles)
+#### Simulator User Experience Developer (2023 - present)
+- Got 4 other developers on board to also learn Rust and join this project, and planned features to be implemented by them as contributions to the domain-specific language server
 
-- Interviewer and evaluator in hiring process for new team members
- 
-- Created a Python application to gather information from REST API database for easy feature and bug tracking visualization in Excel (openpyxl)
+- Implemented a linting module written in Rust which provides a framework to evaluate compliance of code with style and formatting rules established for a domain-specific language used to model devices
 
-### 📊️ Research assistant 
-##### **Vicerrectoría de Investigación y Extensión, Costa Rica Institute of Technology** (2017)
-- High frequency simulation and characterization of sensor designs intended for spectroscopy analysis of biological samples 
+- Learned about IDE integration with domain-specific language servers through the Language Server Protocol (LSP) specification from Microsoft
 
-### 📚️ Student tutor 
-##### **Departamento de Orientación y Psicología, Costa Rica Institute of Technology** (2016)
-- Personal tutor for a student in the Direct Current Circuits course 
+#### Systems Simulation SW Engineer (2021-2023)
+- Optimized the simulation of an encryption engine model to reduce runtime of certain workloads with a 60%+ improvement
+
+- Engineered and enhanced a hardware accelerator simulation model for data-center and networking Intel platforms to enable early development and testing of accelerator drivers
+
+- Enabled test automation for simulations of VMware's ESXi operating system through the implementation of an internal Python library to program automated testing steps
+
+- Executed scrum ceremonies in the role of scrum master for a team that developed models for PCI devices
+
+- Interviewed and evaluated candidates in hiring processes
+
+#### Student SW Engineer (2019 - 2021)
+- Created a Python application to interact with a REST API to collect and process information from a database for easy feature and bug tracking visualization in Excel (openpyxl)
+
+- Explored low-level extensions of x86 platforms to extract execution traces of assembly code as a PoC for a possible system to gather performance insights on simulation execution
 
 ## Skills
-- Customer support and negotiation
-- Proficient in verbal and written communication
-- Open to giving and receiving feedback
 - **Markdown** and **LATEX** documentation
 - Computer architecture and operating systems
 - **Linux** experience (command line applications, scripting, remote ssh)
-- Coding (**Python**, **C**)
+- Experience with kernel PCI device **drivers**
+- Programming (**C**, **Python**, **Rust**)
 - Experience with **Jenkins** CI/CD
-- **git** version control
-- Digital systems design and simulation (**HDL**, **verilog**)
-- Experience with **FPGA** prototyping
-- **Matlab**
 - Information and data visualization (creating diagrams, graphs)
-- Basic image manipulation (**GIMP**) and audio editing (**Audacity**)
+
+# Education
+Licentiate Electronics Engineer from Costa Rica Institute of Technology (2014-2021)
 
 ## Languages
-- Spanish (Native)
-- English (C2)
+- Spanish (Native), English (C2)
